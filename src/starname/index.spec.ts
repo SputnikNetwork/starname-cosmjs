@@ -1,6 +1,6 @@
 import { Decimal } from "@cosmjs/math";
 
-import { FeesRaw, wrapFees } from "./Fees";
+import { FeesRaw, wrapFees } from "../types/Fees";
 
 describe("Fees", () => {
   it("should wrap raw fees object into internal one", () => {
