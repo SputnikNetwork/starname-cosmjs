@@ -1,5 +1,5 @@
 {
-  "name": "starname-cosmjs",
+  "name": "@sputniknetwork/starname-cosmjs",
   "version": "0.1.0",
   "description": "Starname module for the CosmJs (https://github.com/cosmos/cosmjs) library",
   "main": "dist/index.js",
