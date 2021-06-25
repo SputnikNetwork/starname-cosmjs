@@ -2,7 +2,8 @@
   "name": "starname-cosmjs",
   "version": "0.1.0",
   "description": "Starname module for the CosmJs (https://github.com/cosmos/cosmjs) library",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "dry-build": "tsc --noEmit",
     "build": "tsc",
